@@ -37,6 +37,11 @@
   </component>
   <component name="GOROOT" path="E:/Go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -152,7 +157,19 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 8ca44941ca66675718eeec48d1803be9f5963778
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="107" key="#Plugins" timestamp="1615175924990">

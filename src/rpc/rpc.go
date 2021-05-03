@@ -31,7 +31,7 @@ func RPCServer(ch chan string) {
 
 		//向客户端反馈已收到
 		ch <- "test merge"
-		ch <- "rogerxxxxxxxxxxx"
+		ch <- "rogerxxxxx"
 	}
 }
 

@@ -30,7 +30,6 @@ func RPCServer(ch chan string) {
 		fmt.Println("server  received:", data)
 
 		//向客户端反馈已收到
-		ch <- "test merge"
 		ch <- "rogerxxxxx"
 	}
 }
